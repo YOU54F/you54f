@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3719" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3639" class="">
     <defs>
         <style/>
     </defs>
@@ -292,13 +292,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="9.387121799844842" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="9.387121799844842" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="9.387121799844842" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="9.387121799844842" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="9.387121799844842" y="0" width="19.286268425135763" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="28.673390224980604" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="28.673390224980604" y="0" width="191.3266097750194" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="9.38348196975572" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="9.38348196975572" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="9.38348196975572" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="9.38348196975572" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="9.38348196975572" y="0" width="19.364094610314076" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="28.747576580069797" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="28.747576580069797" y="0" width="191.2524234199302" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -325,7 +325,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">226 <small>closed</small></span>
+                                <span class="no-wrap">227 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -3029,7 +3029,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 9 May 2022, 12:47:53
+                            On 9 May 2022, 13:03:14
                         </div>
                     </section>
                 </div>
@@ -3039,29 +3039,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            ci (fix maybe): approvals downgrade based on rb version
+                            ci (fix maybe): try 0.0.18 approval
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">6e26957c</span>
-                            <span class="code">.github/workflows/test.yml</span>
-                            <span class="code"><span class="snippet additions">++4</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">00298e6d</span>
+                            <span class="code">pact-broker-client.gemspec</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -19,7 +19,10 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- uses: ruby/setup-ruby@v1<br /></span><span class="token prefix unchanged">·</span><span class="token line">  with:<br /></span><span class="token prefix unchanged">·</span><span class="token line">    ruby-version: ${{ matrix.ruby_version }}<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">- run: gem install approvals -v '0.0.24' --source 'https://rubygems.org/'<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">- if: ${{ matrix.ruby_version == "2.2" }}<br /></span><span class="token prefix inserted">+</span><span class="token line">  run: gem install approvals -v '0.0.23' --source 'https://rubygems.org/'<br /></span><span class="token prefix inserted">+</span><span class="token line">- if: ${{ matrix.ruby_version == "2.7" }}<br /></span><span class="token prefix inserted">+</span><span class="token line">  run: gem install approvals -v '0.0.24' --source 'https://rubygems.org/'<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">- run: "bundle install"<br /></span><span class="token prefix unchanged">·</span><span class="token line">- if: failure()<br /></span><span class="token prefix unchanged">·</span><span class="token line">  run: cat /opt/hostedtoolcache/Ruby/2.2.10/x64/lib/ruby/gems/2.2.0/extensions/x86_64-linux/2.2.0/approvals-0.0.25/gem_make.out &amp;&amp; exit 1</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -33,6 +33,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">gem.add_development_dependency 'conventional-changelog', '~&gt;1.3'<br /></span><span class="token prefix unchanged">·</span><span class="token line">gem.add_development_dependency 'pact', '~&gt; 1.16'<br /></span><span class="token prefix unchanged">·</span><span class="token line">gem.add_development_dependency 'pact-support', '~&gt; 1.16'<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">gem.add_development_dependency 'approvals', '0.0.24' <br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">gem.add_development_dependency 'approvals', '0.0.18' <br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">gem.add_development_dependency 'rspec-its', '~&gt; 1.3'<br /></span><span class="token prefix unchanged">·</span><span class="token line">end</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 May 2022, 03:30:46 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 16 May 2022, 04:32:14 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
