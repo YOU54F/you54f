@@ -1773,7 +1773,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nathandeamer/pact-order</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1821,7 +1821,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nathandeamer/pact-mobile-app</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1869,7 +1869,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swagger-api/apidom</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Semantic parser for API specifications</div>
@@ -1916,7 +1916,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KOBA-Systems/aws_local_dev_setup</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example to show how to setup AWS local development environment using golang aws-sdk-v2 and localstack</div>
@@ -3029,7 +3029,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 May 2022, 19:12:51 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 20 May 2022, 20:08:50 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
