@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3796" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3756" class="">
     <defs>
         <style/>
     </defs>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    2.09k views in last two weeks
+                                    2.11k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1779,7 +1779,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>smashwilson/slack-emojinator</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bulk upload emoji into Slack</div>
@@ -1832,7 +1832,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pact-foundation/pact-message-demo</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1880,7 +1880,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KrauseFx/notes-exporter</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Because GPDR exists for a reason, oh hi Apple</div>
@@ -3064,7 +3064,7 @@ ci (test): drop pull_request_target from build</div>
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">pact-foundation/pact.io</span>
+                            <span class="blue space">pactflow/.github</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -3072,7 +3072,7 @@ ci (test): drop pull_request_target from build</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 26 May 2022, 02:31:40
+                            On 25 May 2022, 00:56:56
                         </div>
                     </section>
                 </div>
@@ -3082,14 +3082,14 @@ ci (test): drop pull_request_target from build</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            chore: update copyright year
+                            chore: use generated metrics image
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">1deb79fc</span>
-                            <span class="code">pages/index.html</span>
+                            <span class="code">b495e14b</span>
+                            <span class="code">README.md</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -3097,14 +3097,14 @@ ci (test): drop pull_request_target from build</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -681,7 +681,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  &lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;div class="row justify-content-center text-center"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &lt;div class="col-xl-10"&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">      &lt;small class="text-muted"&gt;&amp;copy;2020 All Rights Reserved&lt;/small&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">      &lt;small class="text-muted"&gt;&amp;copy;2022 All Rights Reserved&lt;/small&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    &lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;/div&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/div&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -51,4 +51,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">## Stats<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">![Metrics](https://metrics.lecoq.io/pactflow?template=classic&amp;languages=1&amp;followup=1&amp;repositories=1&amp;lines=1&amp;activity=1&amp;achievements=1&amp;people=1&amp;repositories=100&amp;repositories.batch=100&amp;repositories.forks=false&amp;repositories.affiliations=owner&amp;languages.limit=8&amp;languages.threshold=0%25&amp;languages.colors=github&amp;languages.sections=most-used&amp;languages.indepth=false&amp;languages.analysis.timeout=15&amp;languages.categories=markup%2C%20programming&amp;languages.recent.categories=markup%2C%20programming&amp;languages.recent.load=300&amp;languages.recent.days=14&amp;followup.sections=repositories&amp;followup.indepth=false&amp;people.limit=24&amp;people.identicons=false&amp;people.identicons.hide=false&amp;people.size=28&amp;people.types=followers%2C%20following&amp;people.shuffle=false&amp;activity.limit=5&amp;activity.load=300&amp;activity.days=14&amp;activity.visibility=all&amp;activity.timestamps=false&amp;activity.filter=all&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;achievements.display=detailed&amp;achievements.limit=0&amp;config.timezone=Europe%2FLondon)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">![Metrics](./github-metrics.svg)<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 May 2022, 23:10:19 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 28 May 2022, 00:10:38 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
