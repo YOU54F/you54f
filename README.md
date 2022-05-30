@@ -24,4 +24,4 @@ Otherwise check out some of the stats below, on:
 
 ## Pactflow 
 
-![pactflow](https://github.com/pactflow/.github/blob/master/github-metrics.svg)
+![pactflow](https://github.com/pactflow/.github/blob/main/github-metrics.svg)
