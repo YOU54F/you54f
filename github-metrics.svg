@@ -1800,7 +1800,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guilryder/chrome-extensions</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chrome extensions</div>
@@ -1853,7 +1853,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>javajon/cdc-with-k8s</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A complete tutorial on how to use the code can be found in my Katacoda scenario here: https://katacoda.com/javajon/courses/kubernetes-pipelines/cdc-with-k8s</div>
@@ -1900,7 +1900,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PostHog/posthog</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦔 PostHog provides open-source product analytics that you can self-host.</div>
@@ -1953,7 +1953,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PostHog/posthog.com</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official docs, website, and handbook for PostHog.</div>
@@ -3131,7 +3131,7 @@ I quickly tested inbetween meetings, on macos (worked) and windows with RC4 and 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Jun 2022, 23:11:13 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 2 Jun 2022, 00:10:57 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
