@@ -1800,7 +1800,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PostHog/posthog</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦔 PostHog provides open-source product analytics that you can self-host.</div>
@@ -1853,7 +1853,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PostHog/posthog.com</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official docs, website, and handbook for PostHog.</div>
@@ -1906,7 +1906,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PostHog/posthog-orbit-love-plugin</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3083,7 +3083,7 @@ Thanks for the enhancement request, would you be interested in submitting a pull
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Jun 2022, 04:30:22 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 1 Jun 2022, 06:05:54 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
