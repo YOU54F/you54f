@@ -1831,7 +1831,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>javajon/cdc-with-k8s</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A complete tutorial on how to use the code can be found in my Katacoda scenario here: https://katacoda.com/javajon/courses/kubernetes-pipelines/cdc-with-k8s</div>
@@ -3117,7 +3117,7 @@ ci: pack ruby packer</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jun 2022, 14:16:58 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 4 Jun 2022, 15:08:25 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
