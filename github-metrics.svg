@@ -1803,7 +1803,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastai/ghapi</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A delightful and complete interface to GitHub's amazing API</div>
@@ -1856,7 +1856,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gr2m/twitter-together</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1912,7 +1912,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mikeal/publish-to-github-action</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GitHub Action to push any local file changes, including new files, back to master</div>
@@ -1959,7 +1959,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mxschmitt/action-tmate</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.</div>
@@ -3162,7 +3162,7 @@ Pact.Net will allow you to create a Pact consumer contract file and alone is agn
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jul 2022, 22:09:07 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 5 Jul 2022, 23:09:17 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
