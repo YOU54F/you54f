@@ -1845,7 +1845,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stanleynguyen/reveal-run-in-terminal</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧑‍🏫🧑‍💻Show and execute code in your presentation</div>
@@ -1892,7 +1892,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mermade/openapi-specification-extensions</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A resource for common and standardised OpenAPI specification (vendor) extensions</div>
@@ -3208,7 +3208,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">5adaa84b</span>
-                            <span class="code">pactflow-bi-directional-contracts-intro/step2-start.sh</span>
+                            <span class="code">pactflow-bi-directional-contracts-intro/step7-start.sh</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -3223,7 +3223,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Aug 2022, 18:11:55 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 20 Aug 2022, 19:12:06 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
