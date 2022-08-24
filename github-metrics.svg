@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4134" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3868" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2273 Commits
+                            2279 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.55k views in last two weeks
+                                    1.56k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -532,7 +532,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        64
+                                        65
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1814,7 +1814,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asciinema/agg</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">asciinema gif generator</div>
@@ -2279,8 +2279,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#67f7a8a</div>
-                                        <div class="message">chore: pact-js-v3-demo-e2e - pretty up with jq</div>
+                                        <div class="sha">#87d5f28</div>
+                                        <div class="message">Update intro-start.sh</div>
                                     </div>
                                 </div>
                             </section>
@@ -2299,8 +2299,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5acebd5</div>
-                                        <div class="message">chore: pact-js-v3-demo-e2e formatting shell script</div>
+                                        <div class="sha">#6c9e77f</div>
+                                        <div class="message">chore (deps): example missing pact-core dependency</div>
                                     </div>
                                 </div>
                             </section>
@@ -2319,8 +2319,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a7c3d57</div>
-                                        <div class="message">chore: pact-js-v3-demo-e2e - usage instructions</div>
+                                        <div class="sha">#5cc872c</div>
+                                        <div class="message">chore: dry up intro script</div>
                                     </div>
                                 </div>
                             </section>
@@ -2339,8 +2339,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e6a802e</div>
-                                        <div class="message">chore: pact-js-v3-demo-e2e - usage instructions</div>
+                                        <div class="sha">#4497540</div>
+                                        <div class="message">chore: running instructions</div>
                                     </div>
                                 </div>
                             </section>
@@ -2359,8 +2359,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5f36465</div>
-                                        <div class="message">chore: pact-js-v3-demo-e2e - update intro script</div>
+                                        <div class="sha">#8880c36</div>
+                                        <div class="message">chore: run-specific-verifications</div>
                                     </div>
                                 </div>
                             </section>
@@ -3145,7 +3145,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 23 Aug 2022, 22:02:22
+                            On 24 Aug 2022, 17:45:32
                         </div>
                     </section>
                 </div>
@@ -3155,14 +3155,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            chore: npx --yes
+                            test: GITHUB_HEAD_REF
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">6dadc299</span>
-                            <span class="code">examples/serverless/package.json</span>
+                            <span class="code">125a44b4</span>
+                            <span class="code">scripts/ci/build-and-test.sh</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -3170,14 +3170,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -8,7 +8,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"test": "npm run test:consumer &amp;&amp; npm run test:publish &amp;&amp; npm run test:provider",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"test:consumer": "mocha consumer/*.spec.js",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"test:provider": "mocha -t 30000 provider/*.spec.js",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"test:publish": "pact-broker publish ./pacts --consumer-app-version=$(npx -y absolute-version) --auto-detect-version-properties --broker-base-url=https://test.pactflow.io --broker-username dXfltyFMgNOFZAxr8io9wJ37iUpY42M --broker-password O5AIZWxelWbLvqMd8PkAVycBJh2Psyg1",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"test:publish": "pact-broker publish ./pacts --consumer-app-version=$(npx --yes absolute-version) --auto-detect-version-properties --broker-base-url=https://test.pactflow.io --broker-username dXfltyFMgNOFZAxr8io9wJ37iUpY42M --broker-password O5AIZWxelWbLvqMd8PkAVycBJh2Psyg1",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"can-i-deploy": "npm run can-i-deploy:consumer &amp;&amp; npm run can-i-deploy:provider",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"can-i-deploy:consumer": "$(find ../../ -name pact-broker | grep -e 'bin/pact-broker$' | head -n 1) can-i-deploy --pacticipant SNSPactEventConsumer --latest --broker-base-url https://test.pactflow.io --broker-username dXfltyFMgNOFZAxr8io9wJ37iUpY42M --broker-password O5AIZWxelWbLvqMd8PkAVycBJh2Psyg1",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"can-i-deploy:provider": "$(find ../../ -name pact-broker | grep -e 'bin/pact-broker$' | head -n 1) can-i-deploy --pacticipant SNSPactEventProvider --latest --broker-base-url https://test.pactflow.io --broker-username dXfltyFMgNOFZAxr8io9wJ37iUpY42M --broker-password O5AIZWxelWbLvqMd8PkAVycBJh2Psyg1",</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -13,7 +13,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># npm run dist<br /></span><span class="token prefix unchanged">·</span><span class="token line"># cp package.json ./dist<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">export GIT_BRANCH=${HEAD_REF:-${GIT_REF#refs/heads/}}<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">export GIT_BRANCH=${GITHUB_HEAD_REF:-${GIT_REF#refs/heads/}}<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">echo $GIT_BRANCH<br /></span><span class="token prefix unchanged">·</span><span class="token line"># export PACT_BROKER_USERNAME="dXfltyFMgNOFZAxr8io9wJ37iUpY42M"<br /></span><span class="token prefix unchanged">·</span><span class="token line"># export PACT_BROKER_PASSWORD="O5AIZWxelWbLvqMd8PkAVycBJh2Psyg1"</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2022, 22:09:52 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 24 Aug 2022, 23:10:26 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
