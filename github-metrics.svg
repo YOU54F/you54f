@@ -1807,7 +1807,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>frankkilcommins/AzureAD-SwaggerHub-UserManagement</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sample project to demonstrate methods of managing SwaggerHub users automatically based on AzureAD group memberships via Azure Functions, MS Graph and the SwaggerHub User Management API</div>
@@ -3126,7 +3126,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Sept 2022, 19:13:39 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 6 Sept 2022, 20:08:53 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
