@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3733" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3731" class="">
     <defs>
         <style/>
     </defs>
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1024 issue comments
+                            1025 issue comments
                         </div>
                     </section>
                     <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.36k views in last two weeks
+                                    1.35k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2290,6 +2290,25 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#305 When I performed the contract test, I failed</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by allinone-1 in <span class="repo">pact-foundation/pact-python</span></div>
+                                    <div class="comment">Could you provide a reproducible example of your test and code base.
+Are you actually making that request, and configured your consumer client to use the Pact mock provider?
+For bonus points on how to raise a good question / issue and some steps you can provide for additional context https://docs.pact.io/help/how_to_ask_for_help#4-ask-a-good-question 👍🏾</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#257 Collab with tienvx: use ffi</span>
                                     </div>
                                 </div>
@@ -2361,29 +2380,6 @@ pact/libpact_ffi.dylib: Mach-O 64-bit dynamically linked shared library arm64</c
                                         <span class="code">use-ffi-merge-master</span>
                                         in
                                         <span class="repo">pact-foundation/pact-php</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#304 FileNotFoundError: [Errno 2] No such file or directory: /pact-python-master/pact/bin/pact/bin/pact-mock-service when running Pact test </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by allinone-1 in <span class="repo">pact-foundation/pact-python</span></div>
-                                    <div class="comment">
-                                        Pact-python should be downloading and installing the standalone for your in the
-                                        <code>pact/bin</code>
-                                        folder
-You can grab it from here and uncompress it, to get you going
-https://github.com/pact-foundation/pact-ruby-standalone/releases/tag/v1.91.0
                                     </div>
                                 </div>
                             </section>
@@ -3166,7 +3162,7 @@ https://github.com/pact-foundation/pact-ruby-standalone/releases/tag/v1.91.0
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Sept 2022, 16:12:02 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 8 Sept 2022, 17:15:10 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
