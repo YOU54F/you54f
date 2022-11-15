@@ -8,7 +8,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                 <h1 class="field">
-                    <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="20" height="20" />
+                    <img class="avatar" src="data:image/png;base64,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" width="20" height="20" />
                     <span>Yousaf Nabi</span>
                 </h1>
                 <div class="row">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.19m added, 727k removed
+                                    741k added, 401k removed
                                 </div>
                             </section>
                             <section>
@@ -3160,7 +3160,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Nov 2022, 08:16:29 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Nov 2022, 09:11:04 (timezone Europe/London) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
