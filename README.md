@@ -8,6 +8,12 @@ We have an open forum about contract testing in our [Pact Foundation Slack](http
 
 Click here to join 👉 [Take me to the conversation!](https://slack.pact.io)
 
+or run this to get started with Pact [source](https://github.com/YOU54F/getpact)
+
+```
+curl pact.saf.dev -Lso - | bash -s -- help
+``` 
+
 Otherwise check out some of the stats below, on:
 
 - [YOU54F](https://github.com/YOU54F) 
