@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3650" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3610" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.04m added, 433k removed
+                                    1.12m added, 602k removed
                                 </div>
                             </section>
                             <section>
@@ -1797,7 +1797,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>persan/protobuf-ada</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3115,22 +3115,22 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">f1446bbd</span>
-                            <span class="code">python/cffi/register_ffi.py</span>
-                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
+                            <span class="code">nim/hello_ffi.nim</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -36,8 +36,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">def load_ffi_library(ffi):<br /></span><span class="token prefix unchanged">·</span><span class="token line">"""Load the right library."""<br /></span><span class="token prefix unchanged">·</span><span class="token line">target_platform = platform.platform().lower()<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">print(target_platform)<br /></span><span class="token prefix deleted">-</span><span class="token line">print(platform.machine())<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># print(target_platform)<br /></span><span class="token prefix inserted">+</span><span class="token line"># print(platform.machine())<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">if ("darwin" in target_platform or "macos" in target_platform) and ("aarch64" in platform.machine() or "arm64" in platform.machine()):<br /></span><span class="token prefix unchanged">·</span><span class="token line">    libname = os.path.abspath(f"{FFI_LIB_DIR}/libpact_ffi.dylib")</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -8,4 +8,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">proc pactFfiVersion(): cstring {.importc: "pactffi_version", dynlib: libName.}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">echo fmt"Hello from Pact Nim: {pactFfiVersion()}"<br /></span></span>\No newline at end of file<br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">echo fmt"Nim - hello from ffi version: {pactFfiVersion()}"<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Dec 2022, 19:07:30 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 29 Dec 2022, 20:09:51 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
