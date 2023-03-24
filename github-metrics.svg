@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3867" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3900" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 102 users
+                            Followed by 101 users
                         </div>
                     </section>
                     <section>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.43m added, 648k removed
+                                    1.06m added, 541k removed
                                 </div>
                             </section>
                             <section>
@@ -2152,12 +2152,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    102 followers
+                    101 followers
                 </h2>
                 <div class="row">
                     <section class="people">
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwgFBAb/xAAvEAABAwIFAQcCBwAAAAAAAAABAgMEBREABhIhMQcTFCIjQWFxUaEVM1KRwdHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUAAQT/xAAcEQADAAMAAwAAAAAAAAAAAAAAAQIDERITISL/2gAMAwEAAhEDEQA/AN1cVMGmypjiCpEdpTqgPUJBO3vtg16bVhzOeYJKK7XZtPjhBUlMRQZbbBNgCr+9/fD0qmNTIEiI6PKfaU0v4UCD9jidWIpyXmRcefGZccYKW5DakBxt1I9bHYggggcjCl1zIxwx5KKFpNEisxUNRawmsNblEgqQV2vaxKdibgi9hfj6k9/4Mn9I/bGV0slxqp356muwDTglrsWIqEDu4Os6DYBQ33sQN72vyUAMjBInpbYLN8U0gerPUBPYPNZbDbkhCfzXhcAG+4TyRsbHi49cT5UpFTRW3FVdD8h2VI1LkKHgJUb3+g3PsLY18pTnk19TFwWlxiog35vf/fJx62TJWgLaAToKVbW9jjUsUtaBxdS+pEfo5nOIinLpMxhUdhhzRHkaQEuJIBufW1zsre4PycMqdBSlSTqSoXBG4IxNHbFMHwpSNPHPx/OG3pxPffyZT1ukKX5ibm/AcUB9gMU4Ur0R1t7P/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgEBQYD/8QAMRAAAQIEAwUFCQEAAAAAAAAAAQIDAAQFEQYSIQciMUFRFCRhcaEIExUyY4GCscHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEBf/EABwRAAICAwEBAAAAAAAAAAAAAAACAREDEiEEMf/aAAwDAQACEQMRAD8A1VYqgOIqipLwOaYcIQASbZzytEae2j07Ds03LzHbHnTYqEsDujrrFL2pkTayGHSt5ze3l6k8v9eMpitKm6+73fIQ2gKSpWoNvTyjQzNKrwk82Pd+jDYPx9TcStL+GvqLjYBcacBC034afblFlW9oVAoE4JKqzK2pnIHMvgeHOANsgfqDFVqBkWG193upTly2jXS9rc/HrHXH1DmqviBU8pLLT7rSPfIeQlJCxpppqmwFjE2u0WUvEK1Ae7fONgpEw7kPEFWkSGK5MNqbD280kWCenlDJ412I4YCZuptzNUadcUpZbQ63kBPS6L+sL7jWgy1CfySjjy0/VI/gEJdjLzpd4exZN0elTgpTbS5h5wFtR4gDiLc/Tn1gkbMxiDGNEm6k/PTOdM2pkhrcSmyUG1vygAS0y7JvJUyRvDKQRcEQ2vs167Olun53Z51Sz1OVA/QENLVFA+tMn//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAgF/8QALBAAAQMDAgUCBgMAAAAAAAAAAQIDBAAFERITBiExUWFBgQcUFSMykaGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgAREgMh/9oADAMBAAIRAxEAPwDQ+ABk9KTj8vjriid9UsV+g2i0Z1x4xZC1rR6FeUHJPbOBTckOJ2lp3AgkEA9qz27HhQ5vyK7Y48CNqad08tHTRz5dKxdWKDyauHNXPseHAl5evllK5yWkXCK8uLKS1+G4j1Hggg+M4ok00D/DGI1Ht8yREGiJJeBaGc50ICM59se1HCTyp0OhcRxhyBFpxRxXDhLcZbK5MhHLS30B8mlVPgwb/cRMnt7T6z9wAlAI/wBqWClKk7hSnX3xVl1RSVY7VR1sVJo2TcMbPxaqxNMQ4jKHobQxoxowPB/fWjGHx3Zn2ErdW6wvoULSMikNY7hJkBbbqwrS4EhWkZx/X8V0pCzumiEz5AzWbn//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgMFAQIE/8QAKhAAAgIBAgUDAwUAAAAAAAAAAQIDBBEAIQUSEzFBBhVhFCJxI1FygZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwH/xAAcEQABBQEBAQAAAAAAAAAAAAABAAIDERMhEjH/2gAMAwEAAhEDEQA/AFlL0+tqEzUbte5GhHN0ZAQPjIJxo/Z4+QslepDYs1kPJIaq/p57Hfz20Cr+q78NKWCrctIkldogRISgyCMY7DY+PzpBDPY4dw+Jo7leKoF5FzGSefG2dCbL7CXDFpZK6bk1ypEl2GMS1D2LDf8AvyNxjUTeoas/K8jSI5G6p2GtrnqqSLg/tvFK1B3sSdcyZOxxyf4cZ0GmlWSVmaCxjP28iBxj+XnR3No19RpLYaRLh/XgqzqDJI8TZCq2M7/vqw94sLS+nnimeQY6eMkY0XoTPDxMhDtjz+NNqqh4uowy+BvqxOfVSNxApUzW7tu9HDaVz01AOd9iM6sZrTIwVuI2FKjHKg+1fgaxZldH5gd27/O2ohSgdQzICxGTqemnRxYWr//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCAwUI/8QAMBAAAQMCBAQDBwUAAAAAAAAAAQIDBAURABIhMQYTUYEjQWEHFBUkMlKRYnGhseH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgACAwT/xAAkEQABAwMDBAMAAAAAAAAAAAACAQMEABExBRMhEjJBUZGx0f/aAAwDAQACEQMRAD8AZi2PTFSiG+YliG9PlpTn5DRCAB1Ws7f3jZU2PtOF+5LrFOqNcVS0xpCHnwgB87WKwbX06DBedLJplVHNLUCEkmSLS45rPTx2j417jUaO9TSXC2kkrKFkdCQPxg2S1dIUiyknUHCS4sZrFWebly22WX2JKSOSAPpV6AX7+WHzRIi10iIMgWpDaUL/AEqA1T227YkCZvN2cylaanpqwH7N4VPNDFKqfDtWiofg1StgJstxJlyCW77Bept/mISa+zT6aI8iliQ5IdkEPvEZy2XVnT8g313wNo+R9nfDLUXw0zHi8+Ru4q603PZIHbAnxvUH3HJK7hJSkspAvYJvtrvv59BgI84brA3XkvqmRiKDE1wR7Q+b8/lHrlbpkajU2DJicrVDrsqS1kDziLEm40GoH7YaFNmRn6fHdjHO0ptJHICloGmwKdMc151poVNdUvP4eTKpKdrnzAzfzhWM12p0x2VHgTpMdnnLVkbdUBe9r7+mOmApdKhfFV1QNwxd9pX/2Q==" width="28" height="28" alt="" />
@@ -2180,6 +2179,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACwQAAEDAgQFAwQDAAAAAAAAAAECAwQFEQAGEiETIjFBURRxgQcjQmGRodH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBQP/xAAfEQABBQABBQAAAAAAAAAAAAABAAIDBBExEhMhI0H/2gAMAwEAAhEDEQA/AGTLeaoFSYWpAW2NO4dTbxvtcHbwcTOt1/MGdmp0ajSG4OXOKQ02QLvW/Mm19z27Y0mpR4dR0xKLIkSCriKdA5C2tG6Ov77DAuh0+ZBgtNtzAywwpaHWyNzz7YNYYY+eUuq1snn4sWWRNpdeiQcwM8VuS4G2pGrWArsL9sVVmfHbbCUSZybdQylCk398SqqMzCn1SZpkrbfDjLYtsUG+DEfPMiyywktNkghvhjl5RtjGLJBpK1sx9t2BVOGxEpbbYbSgrAACiOn+4nv1FaaTO9QviNRJbd3FJGwWCRc27HD1VvtNDRtpTt/WB2Y4rTlMlawTwkhxH6JG49uUYpWD1tIU6r65AVMaBTmKiZDDMmSGmmwW3GFaDqKwLg/PzhhYyjLjtBDVceUnqSuOFEn31b4J5QhMGjreCLOPv6FEeEjULfOGMC1+v8nxgFduaqFl+uX/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABQIDBAYHCP/EACYQAAIBAwMEAgMBAAAAAAAAAAEDAgQFEQASIQYTMWFBUQciJHH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwL/xAAeEQACAgICAwAAAAAAAAAAAAABAgARAxIEIhMhMf/aAAwDAQACEQMRAD8A6buzFpttS1p2rXAzkfoDk6xWvuHU1aKgIui6Gmf4pwkMwPok/OPOmLz1ncKKxPfca5lQrhbE5IyJEDzj3oVVVlOyorcubMNJ8AYjzoeXEu/lr3VRGEb2D8lit9yfclPlXKgqsS0qcFn9CcA5Hogg6VIjOhPS18siru+3XJL5wNPCoD1SMTuzswRkDGANS6d6WpgwS3QkMwMvO341etlBhMnRyJXxfrYrp9Uq+v7tfHcahCULCxHBA5lAk54496HWa5SraGmcE47yx3NpwM/IOshq3ujvw2eDLkZ4l/ur9+OKpjbLUQmQQphjA45AzrHJFJcVx27VDCOuzS11XboU6mQS3Ef5VsMvHrJ596Qvrm10ilpqpOpmxgMrnARI4+tZQ1zDXtcJyDO4Z5B+cnU2bZVMi153sl5J1YLSgQzdmJn/2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBAX/xAAmEAACAQQABgIDAQAAAAAAAAABAwIABAURBgcSIUFREzEjYaFx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAbEQACAwEBAQAAAAAAAAAAAAABAwACESFBMf/aAAwDAQACEQMRAD8AbdLvPc1Mbjsiy0tLRt6FS6GNiwQhsfevdH13GcrV8UnTCsiJ9HXapmxVoY2MCwr+VjDBkZKP4xsjf78dv99VlM+mdZhtoAlF8N52y4ixcL7HSJWT0SjIamufo11KUnI2RTkOIbMM61QKpx7a9+KbdDcYeQ1k2GmYctkrXE2U7i+uEpgAdFsujZ9CpdlknBrZMVBhYwtHUPqZ79qMOcd053GzksmSpCVhcPA3ASP9oFkO1VqUDXT7JHNItzyMDknmrTH569VkbiCjerAWxh0DIH6343un1UiRiNVTfLNrLrgfEsfMyn8Zhs+oyIH8FLavsYhpzJ//2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2546,7 +2546,7 @@ they are there in the downloaded tarball</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.839493497604376 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.881930184804924 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2757,7 +2757,7 @@ they are there in the downloaded tarball</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.66834170854271 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.8894472361809 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2794,9 +2794,9 @@ they are there in the downloaded tarball</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 83.1k out of 111m users</span>
+                                    <span class="gh">ranked 84.1k out of 111m users</span>
                                 </div>
-                                <div class="text">Followed by 102 users</div>
+                                <div class="text">Followed by 101 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3081,7 +3081,7 @@ they are there in the downloaded tarball</div>
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">pact-foundation/homebrew-pact-ruby-standalone</span>
+                            <span class="blue space">pact-foundation/docs.pact.io</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -3089,7 +3089,7 @@ they are there in the downloaded tarball</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 22 Mar 2023, 18:01:20
+                            On 22 Mar 2023, 12:19:41
                         </div>
                     </section>
                 </div>
@@ -3099,29 +3099,29 @@ they are there in the downloaded tarball</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            chore(ci): verify tap in PR
+                            chore: typo in blog
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">939cbd9d</span>
-                            <span class="code">scripts/update_tap_version.sh</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--2</span></span>
+                            <span class="code">7bad409a</span>
+                            <span class="code">website/blog/2023-03-21-pact-open-source-update-mar-2023.md</span>
+                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -14,10 +14,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">exec 3&lt;&gt; $FORMULAE_FILE<br /></span><span class="token prefix unchanged">·</span><span class="token line"> echo "class PactRubyStandalone &lt; Formula" &gt;&amp;3<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> echo "  desc \"Standalone pact command-line executable using the Ruby Pact implementation and Travelling Ruby\"" &gt;&amp;3<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> echo "  desc \"Standalone pact CLI executable using the Ruby Pact impl and Travelling Ruby\"" &gt;&amp;3<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> echo "  homepage \"$homepage\"" &gt;&amp;3<br /></span><span class="token prefix unchanged">·</span><span class="token line"> echo "  url \"$homepage/releases/download/v$version/pact-$version-osx.tar.gz\"" &gt;&amp;3<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> echo "  version \"$version\"" &gt;&amp;3<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> echo "  sha256 \"${brewshasignature[1]}\"" &gt;&amp;3<br /></span><span class="token prefix unchanged">·</span><span class="token line"> echo "" &gt;&amp;3<br /></span><span class="token prefix unchanged">·</span><span class="token line"> echo "  def install" &gt;&amp;3</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -201,7 +201,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">### Pact-Python<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">[Serghei Lakovlev](https://github.com/sergeyklay) recently joined the pact-python community and has dropped [a raft of PRs](https://github.com/pact-foundation/pact-python/pulls/sergeyklay) to help bring pact-python up to speed.<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">[Serghei Iakovlev](https://github.com/sergeyklay) recently joined the pact-python community and has dropped [a raft of PRs](https://github.com/pact-foundation/pact-python/pulls/sergeyklay) to help bring pact-python up to speed.<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">We would love to get our fellow **#pythonistas** across these, so if you can offer any support from a review or testing perspective, join us in our pact-python Slack channel, or see<br /></span><span class="token prefix unchanged">·</span><span class="token line">[our pinned call out](https://github.com/pact-foundation/pact-python/issues/88) for maintainers and support of the v3 Pact specification to register your interest<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Mar 2023, 14:08:56 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Mar 2023, 15:10:24 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
