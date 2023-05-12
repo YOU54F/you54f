@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3953" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3880" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.tag{color:#48428a}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.18m added, 575k removed
+                                    1.21m added, 563k removed
                                 </div>
                             </section>
                             <section>
@@ -2234,6 +2234,79 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#90 Newer version do not compatible with `pact-broker`</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by DKorytkin in <span class="repo">pact-foundation/pact-ruby-cli</span></div>
+                                    <div class="comment">Also thank you for the root cause investigation back to a particular version, that is incredibly helpful</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#90 Newer version do not compatible with `pact-broker`</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by DKorytkin in <span class="repo">pact-foundation/pact-ruby-cli</span></div>
+                                    <div class="comment">
+                                        <i>I mean, would be nice if the client handles cases like this.</i>
+                                        I would agree :) anything we can do, to either aid the user, or at least give them hints on where things have gone wrong will only be beneficial
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#90 Newer version do not compatible with `pact-broker`</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by DKorytkin in <span class="repo">pact-foundation/pact-ruby-cli</span></div>
+                                    <div class="comment">I believe this PR will solve it for all commands
+https://github.com/pact-foundation/pact_broker-client/pull/132
+Will keep you posted @DKorytkin</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#447 Binary Content Matching is _odd_ cross platform</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">pact-foundation/pact-js-core</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -2247,178 +2320,6 @@
                                         <div class="sha">#facfef8</div>
                                         <div class="message">chore(ci): yakshave x64 darwin binary content-stream handling</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#313 Remove duplicated code in config</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by tienvx in <span class="repo">pact-foundation/pact-php</span></div>
-                                    <div class="comment">
-                                        Yousaf Nabi
-                                        <i>
-                                            I managed to look through PR https://github.com/pact-foundation/pact-php/pull/280 and have been slowly working my way through, had to get up to speed with the old php codebase, as I had never used it before
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                            We've noticed loads of commit activity which is awesome, I got thinking during this PR https://github.com/pact-foundation/pact-php/pull/302#issuecomment-1544165117 about splitting out the pact broker client func into a seperate repo, and it got me thinking, would reimaging pact-php for the FFI generation without any constraints from this version be a more frictionless approach, or consolidating your changes and releasing for testing on a fork?
-If your happy in your current approach, I am happy working through the PR's, but just food for thought.
-If we did it re-imagined, we could think about an outside in regression suite (something like a pact-php workshop) and as we could then make it for pact-php (ruby) we could then delta the user facing side for pact-php (rust) and you have the migration upgrade path?
-Awesome work anyway, hope its been enjoyable, despite the many yaks you have had to shave (I sometimes enjoy getting lost in the matrix, but I definitely forget where I started!)
-                                        </i>
-                                        Tien Vo
-                                        <i>Not sure I understand you correctly. I did think about make a fork and release it under new name e.g. tienvx/pact-php-ffi . But I think contribute back to pact-foundation/pact-php is better. About release ffi version under new package/repo pact-foundation/pact-php-ffi , I still think it will make users confused about which package they need to use.
-In the future maybe there are even more packages to support plugins:
-
-pact-foundation/pact-php-plugin (base package)
-pact-foundation/pact-plugin-install (helper package, composer's plugin)
-pact-foundation/pact-php-csv
-pact-foundation/pact-php-protobuf
-pact-foundation/pact-php-ANY
-If end-user from Symfony world, they need to install these packages:
-pact-foundation/pact-messenger-bundle
-pact-foundation/pact-provider-bundle
-If end-user from Laravel or other framework, they can install similar packages (not available yet)
-So I am worry about them having headache of there are too many packages to choose and install</i>
-                                        Yousaf Nabi (pactflow.io)
-                                        <i>Yes that it what I thought, for testing purposes, we use your fork, but ultimately contribute back to pact-php mainline. I wouldn't expect huge numbers of users to use your fork or own project, but you may find it helpful, that certainly helped me when I was building stuff, and then can apply those learnings back to the main project
-The thoughts are package names and how users may wish to consume them (and how we communicate which packages they need to use) is an interesting discussion point</i>
-                                        Tien Vo
-                                        <i>for testing purposes, we use your fork, but ultimately contribute back to pact-php mainline
-We can do that. But I choose not to because:
-With Packagist we can easily submit new package, but we can't delete it once we don't need it anymore (we can contact support team but I'm lazy to do that)
-Composer has a feature that allow me test the ffi code. But it will require a some more steps, not easy as introduce new package name.</i>
-                                        Matt (pactflow.io / pact-js / pact-go)
-                                        <i>In the future maybe there are even more packages to support plugins:</i>
-                                        <i>Just in case it isn’t clear, we wouldn’t be expecting different language level packages for plugins - e.g. csv, protobuf etc. The whole point is that a plugin author can create the plugin once, and it’s immediately available for all languages.
-Is there a reason you think that would be necessary?</i>
-                                        Tien Vo
-                                        <i>I understand that once the plugin is created (e.g. using Rust language and available via FFI calls), any other language can start using it. But with current approach, we still need a package for PHP language (per plugin?) because:
-It need to download the binary and metadata files
-Prepare some DSLs so that end-user  can use it easier.</i>
-                                        Matt (pactflow.io / pact-js / pact-go)
-                                        <i>there are CLI tools for this. Also, Ron is adding a new feature to the core soon that will automatically download those etc.</i>
-                                        Matt (pactflow.io / pact-js / pact-go)
-                                        <i>Prepare some DSLs so that end-user  can use it easier.
-true, this is an optional step I’d envisage for other libraries. Fair point
-Saved for later</i>
-                                        Tien Vo
-                                        <i>https://github.com/pact-foundation/pact-php/pull/280 is ready to be reviewed again.
-I'm aware that it's quite big. It's a pain to review. Thanks for everyone reviewing it so far!
-Next week I'll be busy a bit. After that I will think about how to split this one into smaller PRs.</i>
-                                        Tien Vo
-                                        <i>I have an (old) idea 
-@Yousaf Nabi (pactflow.io)
-How about:</i>
-                                        Create a new branch ffi
-I can either:
-Change branch of existing PRs to ffi or
-Create new PRs with target branch ffi
-When we want to release alpha/beta version we merge ffi  back to master (big PR, no need review again)
-Users want to test ffi code early can easily update composer.json to "pact-foundation/pact-php": "dev-ffi as 9.0.0"
-(edited)
-
-
-
-Yousaf Nabi (pactflow.io)
-                                        <i>This for me would be awesome, as I feel there are some users who aren't as technically savvy, who want to help out but more from the outside
-Thanks for everyone reviewing it so far!
-I cannot echo these sentiments enough</i>
-                                        Tien Vo
-                                        <i>Can you help me create that branch? (I recently was gave the permission but I would like not to touch the repo yet) (edited)</i>
-                                        Yousaf Nabi (pactflow.io)
-                                        <i>of course, what you do need, a cut a of master, called ffi?</i>
-                                        Tien Vo
-                                        <i>yes, simple as that. Just ffi please (but composer will see it as dev-ffi)</i>
-                                        Yousaf Nabi (pactflow.io)
-  3 hours ago
-solid
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        Yousaf Nabi (pactflow.io)
-                                        <i>https://github.com/pact-foundation/pact-php/tree/ffi</i>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#446 Feat: Prebuildify pact.node for all FFI supported platform/architectures</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">pact-foundation/pact-js-core</span></div>
-                                    <div>12 files changed <span class="code">++388 --215</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">YOU54F/pact-js-core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">prebuildify</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d3baebf</div>
-                                        <div class="message">feat: Prebuildify pact.node for multi-arch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea9f86f</div>
-                                        <div class="message">feat: ARM64 Linux/MacOS Pact Ruby Standalone</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dac0e46</div>
-                                        <div class="message">Merge pull request #444 from YOU54F/master-pf
-
-CI: Test across Node 16/18/20 + arm64 MacOS test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8554780</div>
-                                        <div class="message">chore(ci): remove cirrus skip</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8675e28</div>
-                                        <div class="message">chore: address review feedback -set e -set u + dx docs</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1087 Upgrade node-gyp-build to support python 3.11+ users</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by csydvs in <span class="repo">pact-foundation/pact-js</span></div>
-                                    <div class="comment">Closing this issue as invalid
-node-gyp-build isn't included in the package.json for pact-js and its core pact-js-core
-https://github.com/pact-foundation/pact-js/blob/master/package.json
-https://github.com/pact-foundation/pact-js-core/blob/master/package.json</div>
                                 </div>
                             </section>
                         </div>
@@ -3187,7 +3088,7 @@ https://github.com/pact-foundation/pact-js-core/blob/master/package.json</div>
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">pact-foundation/pact-js-core</span>
+                            <span class="blue space">YOU54F/pact-ruby-standalone</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -3195,7 +3096,7 @@ https://github.com/pact-foundation/pact-js-core/blob/master/package.json</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 12 May 2023, 14:18:09
+                            On 11 May 2023, 16:20:19
                         </div>
                     </section>
                 </div>
@@ -3205,17 +3106,17 @@ https://github.com/pact-foundation/pact-js-core/blob/master/package.json</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            ci(test): arm64 platforms need octet-stream content-type
+                            chore: add platforms to gemfile
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">8c14e321</span>
-                            <span class="code">.cirrus.yml</span>
+                            <span class="code">441ee1d5</span>
+                            <span class="code">script/prepare-release-in-github-workflow.sh</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++0</span>
+                                <span class="snippet deletions">--3</span>
                             </span>
                         </div>
                     </section>
@@ -3223,14 +3124,14 @@ https://github.com/pact-foundation/pact-js-core/blob/master/package.json</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -50,7 +50,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    - NODE_VERSION: 16<br /></span><span class="token prefix unchanged">·</span><span class="token line">    - NODE_VERSION: 18<br /></span><span class="token prefix unchanged">·</span><span class="token line">    - NODE_VERSION: 20<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">install_script:<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">install_script: # we need to install rosetta as v1.x of pact-ruby-standalone doesn't support arm64<br /></span><span class="token prefix inserted">+</span><span class="token line">  - softwareupdate --install-rosetta --agree-to-license<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  - brew install nvm<br /></span><span class="token prefix unchanged">·</span><span class="token line">  - source $(brew --prefix nvm)/nvm.sh<br /></span><span class="token prefix unchanged">·</span><span class="token line">  - nvm install $NODE_VERSION</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -9,9 +9,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">version=$(cat VERSION)<br /></span><span class="token prefix unchanged">·</span><span class="token line">tag="v${version}"<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># echo "::set-output name=version::${version}"<br /></span><span class="token prefix deleted">-</span><span class="token line"># echo "::set-output name=tag::${tag}"<br /></span><span class="token prefix deleted">-</span><span class="token line"># echo "::set-output name=increment::${INCREMENT}"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">echo "version=${version}" &gt;&gt; $GITHUB_OUTPUT<br /></span><span class="token prefix unchanged">·</span><span class="token line">echo "tag=${tag}" &gt;&gt; $GITHUB_OUTPUT<br /></span><span class="token prefix unchanged">·</span><span class="token line">echo "increment=${INCREMENT}" &gt;&gt; $GITHUB_OUTPUT</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 May 2023, 17:10:28 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 May 2023, 18:08:15 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
