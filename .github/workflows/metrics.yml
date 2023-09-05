@@ -5,7 +5,7 @@ on:
   schedule: [{cron: "0 0 * * 0"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["swagger-api"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: you54f
+          user: swagger-api
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
