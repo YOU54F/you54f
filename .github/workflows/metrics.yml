@@ -77,7 +77,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_repositories_featured: pact-foundation/pact-js,pact-foundation/jest-pact,pactflow/pact-msw-adapter,pactflow/pact-cypress-adapter,YOU54F/cypress-plugins
+          plugin_repositories_featured: swagger-api/swagger-ui, swagger-api/swagger-editor, swagger-api/swagger-core, swagger-api/swagger-codegen, swagger-api/swagger-js, swagger-api/swagger-parser
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
           plugin_starlists: yes
