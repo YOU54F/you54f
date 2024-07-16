@@ -1,33 +1,40 @@
-I'm [Yousaf](https://you54f.com), 
+![swagger logo](https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg)
 
-A Developer Advocate @ [Pactflow](https://pactflow.io) 
+# API Development for Everyone
 
-A Community Shepherd @ [Pact](https://pact.io)
+Simplify your API development with our open-source and professional tools, built to help you and your team efficiently design and document APIs at scale.
 
-We have an open forum about contract testing in our [Pact Foundation Slack](https://slack.pact.io)
+## Swagger and OpenAPI go hand‑in‑hand.
 
-Click here to join 👉 [Take me to the conversation!](https://slack.pact.io)
+> Swagger offers powerful and easy to use tools to take full advantage of the OpenAPI Specification.
 
-or run this to get started with Pact [source](https://github.com/YOU54F/getpact)
+[See how we do it](https://swagger.io/resources/open-api/)
 
-```
-curl pact.saf.dev -Lso - | bash -s -- help
-``` 
+## Swagger Open Source Tools
 
-Otherwise check out some of the stats below, on:
+<a href="https://github.com/swagger-api/swagger-ui"><img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.png" width="300"></a>
+<br/>
+<a href="https://github.com/swagger-api/swagger-editor"><img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWE-logo-clr.png"  height="80"></a>
+<br/>
+<a href="https://github.com/swagger-api/swagger-codegen"><img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWC-logo-clr.png" height="80"></a>
 
-- [YOU54F](https://github.com/YOU54F) 
-- [Pactflow](https://github.com/pactflow)
-- [Pact-Foundation](https://github.com/pact-foundation)
+Discover the power of Swagger’s open source tools, built upon the core of API specifications and in collaboration with the community, which offer a rich set of features that address the unique challenges of API design and development. 
 
-## My Scratchpad 
+These open source offerings include:
 
-![Metrics](/github-metrics.svg)
+- **Swagger Editor**
+  - Craft your APIs directly in your browser with real-time feedback and syntax auto-completion. 
+- **Swagger UI**
+  - Visualize and interact with the API's resources without having any of the implementation logic in place. 
+- **Swagger Codegen**
+  - Generate client libraries, server stubs, and API documentation from an OpenAPI Specification.
 
-## Pact 
+## API Specifications
 
-![pact-foundation](https://github.com/pact-foundation/.github/blob/master/github-metrics.svg)
+Swagger places API specifications such as OpenAPI, AsyncAPI, and JSON Schema at the core of its architecture, which are crucial for guiding teams through the entire lifecycle of API design and documentation. 
 
-## Pactflow 
+This strategic focus ensures that our suite, including open source tools and SwaggerHub, delivers unparalleled efficiency and a seamless user experience.
 
-![pactflow](https://github.com/pactflow/.github/blob/main/github-metrics.svg)
+## Streamline your workflow with unparalleled API specification support
+
+[![swagger hub ring](https://static1.smartbear.co/swagger/media/images/tools/swaggerhub-ring.png)](https://swagger.io/)
